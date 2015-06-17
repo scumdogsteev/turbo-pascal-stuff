@@ -1,4 +1,4 @@
-{ procedures.lib                                                       }                                           
+{ procedures.pas                                                       }                                           
 { by Steve Myles                                                       }
 { license: MIT License                                                 }
 { last updated:  1995-06-16                                            }
