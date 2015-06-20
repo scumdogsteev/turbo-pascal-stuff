@@ -17,4 +17,4 @@ Files:
 - [**procedures.pas**](procedures.pas) - procedures that I used to find useful
 - [**UTILITY.LIB**](UTILITY.LIB) - library of useful procedures
 - [**UTILITY.PAS**](UTILITY.PAS) - .PAS version of UTILITY.LIB
-- [**UTILITY.TPU**](UTILITY.TPU) - .TPU (Turbo Pascal Unit), compiled version of UTILITY.PAS
+- [**UTILITY.TPU**](UTILITY.TPU) - .TPU (compiled Turbo Pascal Unit) version of UTILITY.PAS
